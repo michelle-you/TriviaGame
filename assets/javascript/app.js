@@ -7,7 +7,7 @@ let state = {
         {question: 'q5', answer: 'a'},
         {question: 'q6', answer: 'a'}
     ],
-    timeRemaining: 60,
+    timeRemaining: 30,
     correct: 0,
     incorrect: 0,
     unanswered: 0
