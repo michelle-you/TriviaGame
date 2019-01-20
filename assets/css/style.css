@@ -1,0 +1,8 @@
+.inline-radio {
+    display: flex;
+    overflow: hidden;
+}
+form {
+    align-items: center;
+	justify-content: center;
+}
