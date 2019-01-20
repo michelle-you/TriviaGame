@@ -1,6 +1,15 @@
+body {
+    background: linear-gradient( gray, lightblue);
+    text-align: center;
+    color: whitesmoke;
+    font-style: oblique;
+    font-size: 1.4em;
+
+}
 .inline-radio {
-    display: flex;
-    overflow: hidden;
+    display: inline;
+    
+    
 }
 form {
     align-items: center;
